@@ -1,5 +1,5 @@
 # Weather-Journal App Project
-https://github.com/HappySonia/weatherJourney
+https://happysonia.github.io/weatherJourney/
 
 ## Overview
 This project is to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
