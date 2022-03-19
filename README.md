@@ -1,7 +1,8 @@
 # Weather-Journal App Project
 
 ## Demo
-<img src="/demo/demo.png" alt="">
+
+<img src="/demo/homepage.png" alt=""><img src="/demo/demo.png" alt="">
 
 ## Overview
 
