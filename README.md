@@ -2,7 +2,7 @@
 
 ## Demo
 
-<img src="/demo/homepage.png" alt=""><img src="/demo/demo.png" alt="">
+<p><img src="/demo/homepage.png" alt=""><img src="/demo/demo.png" alt=""></p>
 
 ## Overview
 
