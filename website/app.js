@@ -63,9 +63,9 @@ async function updateUI(e) {
     try {
         const allData = await request.json();
         console.log(allData);
-        document.getElementById('temp').innerHTML = allData.temp;
-        document.getElementById('date').innerHTML = allData.date;
-        document.getElementById('content').innerHTML = allData.feelings;
+        document.getElementById('temp').innerHTML = `Temp: ${allData.temp}`;
+        document.getElementById('date').innerHTML = `Date: ${allData.date}`;
+        document.getElementById('content').innerHTML = `Feelings: ${allData.feelings}`;
 
     } catch (error) {
         console.log("UI data couldnot be updated", error);

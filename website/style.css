@@ -15,6 +15,7 @@ body{
     font-family: 'Oswald', sans-serif;
     border-radius: 15px;
     padding-left:200px;
+    padding-top:10px;
     margin:0 auto;
     box-shadow: 2px 4px 5px #444;
 }
@@ -25,6 +26,7 @@ body{
 }
 
 .entry{
+    padding:10px;
     background: rgba(59, 74, 107, .4);
 }
 
